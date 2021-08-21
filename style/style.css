@@ -1,6 +1,6 @@
 @import url(https://fonts.googleapis.com/css?family=Pacifico|Open+Sans:300);
 body {
-  background: url("image/bg.jpg") no-repeat center;
+  background: url(../image/bg.jpg) no-repeat center;
   background-size: cover;
   color: black;
   font-size: 30px;
